@@ -1,2 +1,2 @@
 # sqlzoo
-Answers to all tutorials from SQLZoo; content from: http://sqlzoo.net/wiki/SQL_Tutorial.
+Solutions to all tutorials from SQLZo http://sqlzoo.net/wiki/SQL_Tutorial.
